@@ -16,7 +16,7 @@ You need to pay the respective certificate authority to sign your key, but being
 
 Signal needs to make money for their servers anyways, so I will happily pay them for a couple of signatures. I don't know how they are going to verify that I am a human, but that is not my task to decide anyways.
 
-The mobile app is called fob, obviously. But I don't like carrying my phone around with me everywhere I go. And think of the old people.
+The mobile app is called `fob`, obviously. But I don't like carrying my phone around with me everywhere I go. And think of the old people.
 
 That's why I didn't mention the mobile app until now.
 
